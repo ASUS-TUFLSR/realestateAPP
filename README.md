@@ -133,8 +133,8 @@ root/
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone <your-repo-url>
-cd your-project
+git clone https://github.com/ASUS-TUFLSR/realestateAPP
+cd realestateAPP
 
 🖥 Frontend Setup (Next.js)
 cd frontend
@@ -161,6 +161,7 @@ JWT_SECRET="your-jwt-secret"
 JWT_EXPIRES_IN="7d"
 
 # Cloudinary
+# Go to cloudinary signup it will provide with you the following things
 CLOUDINARY_CLOUD_NAME="cloudinary-name"
 CLOUDINARY_API_KEY="cloudinary-api-key"
 CLOUDINARY_API_SECRET="cloudinnary-api-secret"
