@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Manmit%20pal/Desktop/realestateAPP/frontend/styles/index.css"],"sourcesContent":["@import \"tailwindcss\";\r\n\r\n.nav-link {\r\n    @apply text-gray-700 hover:text-indigo-600 transition font-medium;\r\n}\r\n\r\n.mobile-link {\r\n    @apply block w-full text-gray-700 font-medium py-2 hover:text-indigo-600 transition;\r\n}"],"names":[],"mappings":"AAGI;;AAIA"}}]
+}

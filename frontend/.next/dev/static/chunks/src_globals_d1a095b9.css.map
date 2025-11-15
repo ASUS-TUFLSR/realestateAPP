@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Manmit%20pal/Desktop/realestateAPP/frontend/src/globals.css"],"sourcesContent":["/* Minimal baseline */\r\nbody {\r\n    font-family: Arial, Helvetica, sans-serif;\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\na {\r\n    color: blue;\r\n    text-decoration: underline;\r\n}\r\n\r\ninput,\r\ntextarea,\r\nbutton {\r\n    padding: 8px;\r\n    border: 1px solid #ccc;\r\n    border-radius: 4px;\r\n}\r\n\r\nbutton {\r\n    cursor: pointer;\r\n}"],"names":[],"mappings":"AACA;;;;;;AAMA;;;;;AAKA;;;;;;AAQA"}}]
+}

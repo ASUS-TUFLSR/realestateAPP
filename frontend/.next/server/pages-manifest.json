@@ -1,0 +1,14 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
+  "/admin/add-property": "pages/admin/add-property.html",
+  "/admin/dashboard": "pages/admin/dashboard.html",
+  "/admin/edit/[id]": "pages/admin/edit/[id].html",
+  "/admin/login": "pages/admin/login.html",
+  "/listing": "pages/listing.html",
+  "/property/[id]": "pages/property/[id].html",
+  "/404": "pages/404.html"
+}

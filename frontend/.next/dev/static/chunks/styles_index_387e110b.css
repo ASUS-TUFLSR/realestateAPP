@@ -1,0 +1,6 @@
+/* [project]/styles/index.css [client] (css) */
+@apply text-gray-700 hover:text-indigo-600 transition font-medium;
+
+@apply block w-full text-gray-700 font-medium py-2 hover:text-indigo-600 transition;
+
+/*# sourceMappingURL=styles_index_387e110b.css.map*/

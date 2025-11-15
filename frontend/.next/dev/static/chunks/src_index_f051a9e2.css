@@ -1,0 +1,23 @@
+/* [project]/src/index.css [client] (css) */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #00f;
+  text-decoration: underline;
+}
+
+input, textarea, button {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=src_index_f051a9e2.css.map*/
